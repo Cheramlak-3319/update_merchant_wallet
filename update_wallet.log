@@ -1,0 +1,40 @@
+
+2026-01-29 07:59:35 RAW JSON: {
+  "wallet": {
+    "id": "003UEaAX-Sslo-ZlbK-4Moq-ciGxTElZ57Fj",
+    "fullname": "Brhane Tesfa Michael",
+    "mobile": "251912345678",
+    "region": "Addis Ababa",
+    "city": "Addis Ababa",
+    "zone": "Bole",
+    "wereda": "01",
+    "nfccard_serialno": "SN-2026-0001",
+    "nfccard_no": "NFC-88442211"
+  }
+}
+
+2026-01-29 07:59:35 UPDATE SQL: 
+    UPDATE dube_wallet
+    SET mobile = '251912345678', fullname = 'Brhane Tesfa Michael', region = 'Addis Ababa', city = 'Addis Ababa', zone = 'Bole', wereda = '01', nfccard_serialno = 'SN-2026-0001', nfccard_no = 'NFC-88442211'
+    WHERE id = '003UEaAX-Sslo-ZlbK-4Moq-ciGxTElZ57Fj'
+
+2026-01-29 08:00:37 RAW JSON: {
+  "wallet": {
+    "id": "003UEaAX-Sslo-ZlbK-4Moq-ciGxTElZ57Fj",
+    "fullname": "Brhane Tesfa Michael",
+    "mobile": "251912345678",
+    "region": "Addis Ababa",
+    "city": "Addis Ababa",
+    "zone": "Bole",
+    "wereda": "01",
+    "nfccard_serialno": "SN-2026-0001",
+    "nfccard_no": "NFC-88442211"
+  }
+}
+
+2026-01-29 08:00:37 UPDATE SQL: 
+    UPDATE dube_wallet
+    SET mobile = '251912345678', fullname = 'Brhane Tesfa Michael', region = 'Addis Ababa', city = 'Addis Ababa', zone = 'Bole', wereda = '01', nfccard_serialno = 'SN-2026-0001', nfccard_no = 'NFC-88442211'
+    WHERE id = '003UEaAX-Sslo-ZlbK-4Moq-ciGxTElZ57Fj'
+
+2026-01-29 08:05:08 NFC DATA for 003UEaAX-Sslo-ZlbK-4Moq-ciGxTElZ57Fj → {"serial":"SN-2026-0001","card":"NFC-88442211"}
