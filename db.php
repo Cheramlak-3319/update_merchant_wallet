@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
 $db   = "sugarcrm";      // your local DB
-$user = "root";           // your MySQL username
-$pass = "9Bcts_2015";               // your MySQL password
+$user = "*****";           // your MySQL username
+$pass = "********";               // your MySQL password
 
 $conn = new mysqli($host, $user, $pass, $db);
 
